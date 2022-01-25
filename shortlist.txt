@@ -1,0 +1,260 @@
+---------------------------------------------------------------------------------------------
+ --- Job applications from most to least matches --- 
+---------------------------------------------------------------------------------------------
+
+File Name: text2.txt
+Rating: 43 / 60
+Unique Keywords: 6
+Phone no. 1: 45343434
+Email no. 1: john.donaldson@emailexample.com
+
+sentences(9):
+- software:
+With a BS degree in Computer Programming have a comprehensive understanding of the full i lifecycle for software development projects.
+
+- job:
+As requested i enclose a completed job application my certification my resume and three references.
+
+- job:
+for your time and consideration Sincerely Jane Jobseeker.
+
+- strength:
+My key strengths that would support my success in this position include I have successfully designed developed and supported liveuse applications.
+
+- programming:
+With a BS degree in Computer Programming have a comprehensive understanding of the full i lifecycle for software development projects.
+
+- experience:
+The role is very appealing to me and I believe that my strong technical experience and education make me a highly competitive candidate for this position.
+
+- experience:
+I also have experience in learning and applying new technologies as appropriate.
+
+- experience:
+Please see my resume for additional information on my i experience.
+
+- education:
+The role is very appealing to me and I believe that my strong technical experience and education make me a highly competitive candidate for this position.
+---------------------------------------------------------------------------------------------
+
+File Name: text5.txt
+Rating: 40 / 60
+Unique Keywords: 5
+Phone no. 1: 65453483
+Email no. 1: Wil@wuhan.com
+
+sentences(9):
+- software:
+Thank you for the opportunity to apply for the Senior Software Engineer role at your company.
+
+- software:
+Since with a Bachelor's degree in Information Technology Master's degree in Computer Science and 6+ years handson experience using the latest technologies to develop software and web applications I .
+
+- software:
+Throughout my extensive history I have not only developed software programs and mobile applications but also trained 30+ software engineering interns to reach permanent junior software engineer posi.
+
+- software:
+Highly skilled in developing and testing software.
+
+- job:
+m certain that I have the necessary skills to successfully do the job adeptly and perform above expectations.
+
+- strength:
+Through my work experience and other professional activities I have strengthened my analytical critical thinking and multitasking skills.
+
+- happy:
+I am very happy to tell you that your listed requirements closely match my background and skills.
+
+- experience:
+Since with a Bachelor's degree in Information Technology Master's degree in Computer Science and 6+ years handson experience using the latest technologies to develop software and web applications I .
+
+- experience:
+Through my work experience and other professional activities I have strengthened my analytical critical thinking and multitasking skills.
+---------------------------------------------------------------------------------------------
+
+File Name: text4.txt
+Rating: 35 / 60
+Unique Keywords: 5
+Phone no. 1: 77335555
+Email no. 1: example-HarrJones@pineappleexpress.com
+
+sentences(13):
+- software:
+Del Rey As a highly skilled Senior Software Engineer I read your posting for a new Software Engineer II with interest.
+
+- software:
+With more than eight years’ experience in software engineering I am adept in performance optimisation software design and implementation coordination.
+
+- software:
+In addition to my experience and personal qualities I have a solid educational foundation and a passion for software design.
+
+- software:
+I am extremely enthusiastic about Core Design and Development’s focus on mobile software and would welcome the opportunity to contribute to your development of new navigational tools for mobile pl.
+
+- job:
+Moreover whilst my onthejob experience has afforded me a wellrounded skill set including firstrate analytical and organisational abilities I excel at.
+
+- programming:
+Programming in multiple languages.
+
+- experience:
+My experience aligns well with the qualifications you are seeking at Core Design and Development in particular my position with Marketlogic and I am certain I would make a valuable addition to your .
+
+- experience:
+With more than eight years’ experience in software engineering I am adept in performance optimisation software design and implementation coordination.
+
+- experience:
+Moreover whilst my onthejob experience has afforded me a wellrounded skill set including firstrate analytical and organisational abilities I excel at.
+
+- experience:
+Designing clean intuitive interfaces for optimal user experience.
+
+- experience:
+In addition to my experience and personal qualities I have a solid educational foundation and a passion for software design.
+
+- experience:
+I will follow up to request an appointment to discuss how my experience and background meet your needs.
+
+- education:
+In addition to my experience and personal qualities I have a solid educational foundation and a passion for software design.
+---------------------------------------------------------------------------------------------
+
+File Name: text7.txt
+Rating: 33 / 60
+Unique Keywords: 6
+Email no. 1: john.donaldson@emailexample.com
+Email no. 2: john.donaldson@emailexample.com
+
+sentences(8):
+- software:
+With a BS degree in Computer Programming I have a comprehensive understanding of the full lifecycle for software development projects.
+
+- job:
+As requested I enclose a completed job application my certification my resume and three references.
+
+- strength:
+My key strengths that would support my success in this position include.
+
+- programming:
+With a BS degree in Computer Programming I have a comprehensive understanding of the full lifecycle for software development projects.
+
+- experience:
+The role is very appealing to me and I believe that my strong technical experience and education make me a highly competitive candidate for this position.
+
+- experience:
+I also have experience in learning and applying new technologies as appropriate.
+
+- experience:
+Please see my resume for additional information on my experience.
+
+- education:
+The role is very appealing to me and I believe that my strong technical experience and education make me a highly competitive candidate for this position.
+---------------------------------------------------------------------------------------------
+
+File Name: text10.txt
+Rating: 22 / 60
+Unique Keywords: 3
+Phone no. 1: 64448211
+Email no. 1: TaylorCook@gmail.com
+
+sentences(7):
+- software:
+Following on from my MS in Computer Science from UCB relevant software experience includes UE4 Visual Studio and Perforce as well as fluency in C.
+
+- programming:
+Programming the locomotion and combat mechanics of Bpex Legends and Story Wars characters for the past three years is the ideal stepping stone for my dream gameplay programmer role at History.
+
+- programming:
+I played a leading programming role in the industryacclaimed motion arcs and animation timing of the NME award winning Story Wars Jedi Rise Up Order game and my online multiplayer experience with En.
+
+- programming:
+ and eight other programming languages including Python and Java.
+
+- experience:
+I played a leading programming role in the industryacclaimed motion arcs and animation timing of the NME award winning Story Wars Jedi Rise Up Order game and my online multiplayer experience with En.
+
+- experience:
+Following on from my MS in Computer Science from UCB relevant software experience includes UE4 Visual Studio and Perforce as well as fluency in C.
+
+- experience:
+The following experience would make me a great addition to your Fort9 team .
+---------------------------------------------------------------------------------------------
+
+File Name: text6.txt
+Rating: 22 / 60
+Unique Keywords: 3
+Phone no. 1: 83282211
+Email no. 1: email@first.com
+Email no. 2: example@email.com
+
+sentences(5):
+- software:
+Although I specialize in Java I'm fluent in several programming languages frameworks and software.
+
+- software:
+I look forward to meeting you to discuss the prospect of joining your software development.
+
+- programming:
+Although I specialize in Java I'm fluent in several programming languages frameworks and software.
+
+- experience:
+As a long time admirer of Company Name's focus on improving user experience I'm excited to apply for your newly announced Java Developer position.
+
+- experience:
+I believe that my 7+ years of experience BS in computer science and unwavering commitment to building usercentric.
+---------------------------------------------------------------------------------------------
+
+File Name: text12.txt
+Rating: 16 / 60
+Unique Keywords: 2
+Phone no. 1: 75463211
+Email no. 1: Strongboi@pepsi.com
+
+sentences(4):
+- software:
+I am very excited about the possibility of joining the Software Engineering Unit of General Motors in the position.
+
+- software:
+My solid knowledge of computer software design and project development has given me the foundation to succeed in the software engineering industry.
+
+- software:
+I look forward to meeting with you and other members of the Software Engineering Unit to further discuss my suitability for this position.
+
+- experience:
+In addition to my experience gained with IBM I am graduating with an Honours Bachelor of Applied Science degree from York University.
+---------------------------------------------------------------------------------------------
+
+File Name: text1.txt
+Rating: 14 / 60
+Unique Keywords: 2
+Phone no. 1: 48484848
+Phone no. 2: 41145581
+Email no. 1: Jane@outlook.com
+
+sentences(3):
+- job:
+Thank you for your time and consideration Sincerely Jane Jobseeker.
+
+- experience:
+Dear Mrs Pollack I am confident that my experience and skills are an excellent match for this position.
+
+- experience:
+My credentials include 10 years experience of compiling.
+---------------------------------------------------------------------------------------------
+
+File Name: text3.txt
+Rating: 11 / 60
+Unique Keywords: 1
+Phone no. 1: 77443311
+Email no. 1: Sonic@hedgehog.com
+
+sentences(3):
+- software:
+I'm excited to be applying for the Software Engineer position at River Tech.
+
+- software:
+During my previous role at Crane & Jenkins I was charged with developing innovative solutions across a variety of software platforms.
+
+- software:
+I was instrumental in developing mobileready expense tracking software for our fastgrowing portfolio of real estate clients.
+---------------------------------------------------------------------------------------------
